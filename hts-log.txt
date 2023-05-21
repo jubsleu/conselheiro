@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Apr 2023 20:34:08 at https://www.otarot.net/tarot-oraculo/expectativa.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.otarot.net/tarot-oraculo/expectativa.php
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.otarot.net/tarot-oraculo/expectativa.php -O1 "C:\Users\Windows\Desktop\copia de site\expectativa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.otarot.net/tarot-oraculo/expectativa.php )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:34:30	Warning: 	File not parsed, looks like binary: https://www.otarot.net/fonts/playball-webfont.woff2
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg.JPG (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg-belline.JPG (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg-belline.jpg (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg1.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg2.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg3.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg4.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg5.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg6.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg7.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg8.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg9.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg10.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg11.png (from https://www.otarot.net/tarot-oraculo/style.css)
+20:34:42	Error: 	"Not Found" (404) at link https://www.otarot.net/tarot-oraculo/images/bg/bg.png (from https://www.otarot.net/tarot-oraculo/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 seconds : 119 links scanned, 103 files written (11570467 bytes overall) [10622218 bytes received at 321885 bytes/sec], 1311989 bytes transferred using HTTP compression in 17 files, ratio 24%, 9.2 requests per connection
+(15 errors, 1 warnings, 0 messages)
